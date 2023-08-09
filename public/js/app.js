@@ -1,4 +1,3 @@
-console.log("Client side javascript file is loaded")
 
 //fetch allows you to get something from a URL and do something with it
 // fetch("http://localhost:3000/weather?address=London").then((response)=>{ 
